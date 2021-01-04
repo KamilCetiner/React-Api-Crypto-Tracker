@@ -52,3 +52,30 @@
   color: #e2e2e2
 
 }
+
+.coin-titlescontainer{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.coin-title {
+    display: flex;
+    text-align : center;
+    justify-content: space-between;
+    width: 900px;
+    margin-left: 30%;
+    
+        
+}
+
+
+
+h4 {
+
+    color:#ffeb3b ;
+    margin-left: 50px;
+    margin-right: 20px;
+
+}
