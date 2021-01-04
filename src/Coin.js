@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Coin = ({name, image, symbol,price, volume, priceChange, marketcap }) => {
     return(
         <div className= 'coin-container'>
