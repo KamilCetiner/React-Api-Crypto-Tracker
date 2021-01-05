@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import axios from 'axios';
-import Coin from './Coin';
+import Coin from './components/Coin';
 import './App.css';
 import './Coin.css';
 
@@ -12,7 +12,6 @@ function App() {
     const [search, setSearch] = useState("");
 
     
-  
     useEffect(() => {
   
       
@@ -37,7 +36,7 @@ function App() {
     
     return (
       <div className="coin-app">
-        <div className= "coin-search">
+              <div className= "coin-search">
           <h1 className= "coin-text" > Search a currency </h1>
   
           <form>
