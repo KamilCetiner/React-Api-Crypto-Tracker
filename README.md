@@ -12,8 +12,14 @@ With this project we used API from https://www.coingecko.com/en/api.
 ## This is short photos about this app.
 
 ![screenshot](overview/cyrpto_web.jpg)
+<br>
+<br>
 ![screenshot](overview/search_1.jpg)
+<br>
+<br>
 ![screenshot](overview/search.jpg)
+<br>
+<br>
 
 
 ### At the end of the project, following topics are to be covered;
